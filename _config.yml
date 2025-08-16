@@ -1,0 +1,10 @@
+title: Your Name
+description: Short tagline (e.g., Political scientist | Environmental governance)
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+# Pages to show in the top navigation
+header_pages:
+  - about.md
+  - publications.md
