@@ -1,10 +1,11 @@
-title: Your Name
-description: Short tagline (e.g., Political scientist | Environmental governance)
+title: Gabriel Soyer
+description: PhD Candidate, Political Science & International Affairs (UGA) · Comparative Politics · Political Economy · Environment
 theme: minima
 markdown: kramdown
 permalink: pretty
 
-# Pages to show in the top navigation
+# Simple top nav
 header_pages:
   - about.md
   - publications.md
+  - teaching.md
