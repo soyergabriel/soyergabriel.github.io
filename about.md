@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-![Portrait of Gabriel Soyer](/assets/img/portrait.jpeg)
-Credits: Aline Soterroni.
+
+<p align="center">
+  <img src="/assets/img/portrait.jpeg" alt="Portrait of Gabriel Soyer" width="300"/><br>
+  <span style="font-size:0.8em; color:gray;">Credits: Aline Soterroni</span>
+</p>
+
 **Welcome!**
 I'm a PhD Candidate in Political Science & International Affairs at the University of Georgia (UGA). 
 My research sits at the intersection of political economy, environmental politics and d—
