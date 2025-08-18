@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ![Portrait of Gabriel Soyer](/assets/img/portrait.jpeg)
-
+Credits: Aline Soterroni.
 **Welcome!**
 I'm a PhD Candidate in Political Science & International Affairs at the University of Georgia (UGA). 
 My research sits at the intersection of political economy, environmental politics and d—
