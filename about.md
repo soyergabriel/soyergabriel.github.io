@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p align="center">
-  <img src="/assets/img/portrait.jpeg" alt="Portrait of Gabriel Soyer" width="250"/>
-</p>
+![Portrait of Gabriel Soyer](/assets/img/portrait.jpeg)
 
 **Welcome!**
 I'm a PhD Candidate in Political Science & International Affairs at the University of Georgia (UGA). 
