@@ -12,4 +12,4 @@ with a regional focus on Brazil.
 How does agrarian elites shape the fate of democracy in a unequal societies? How do economically powerful elites shape who gets what—and at what environmental cost—in democratic settings in the Global South? My dissertation tries to answer those questions analyzing the Brazil case. In my work, I use large administrative datasets, quasi-experimental designs, and extensive qualitative fieldwork.
 
 
-For a full overview, see my [CV](/assets/cv/cv.pdf). Feel free to reach out by email.
+For a full overview, see my [CV](/assets/cv/Soyer - CV updated_August.pdf). Feel free to reach out by email.
