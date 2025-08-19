@@ -31,3 +31,10 @@ permalink: /publications/
 - “Drivers of policy diffusion: bureaucratic entrepreneurs of school food.” (with Marcela Alonso Ferreira).
 
 - “New Perspectives on Traditional Extractivism in Brazil.” (with Gregory M. Thaler, Carlos Valério Gomes, Evandro Neves, and Bruno Ubiali).
+
+  ### Peer-reviewed (in Portuguese)
+
+- Soyer, Gabriel, and Ricardo Barbosa Jr. 2020. “Agrarian extractivism from Bolsonaro Government as informed by State-society relations.” *National Geography Graduate Association Journal – ANPEGE*, Special Issue of Bolsonaro’s Food and Land Politics 16 (29): 516–548.
+
+- Soyer, Gabriel, and Ricardo Barbosa Jr. 2018. “Land grabbing in Brazilian International Relations.” *Contextualizaciones Latinoamericanas* 10 (18): 1–16.
+
