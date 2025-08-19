@@ -10,7 +10,7 @@ permalink: /about/
   <span style="font-size:0.8em; color:gray;">Credits: Aline Soterroni</span>
 </p>
 
-**Welcome!**
+**Thank you for your visit!**
 I'm a PhD Candidate in Political Science & International Affairs at the University of Georgia (UGA). I also hold a Graduate Certificate in GIScience (Geographic Information Science).
 My research lies at the intersection of political economy, environmental politics and bureaucratic politics.
 
