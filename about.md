@@ -15,9 +15,9 @@ I'm a PhD Candidate in Political Science & International Affairs at the Universi
 My research lies at the intersection of political economy, environmental politics and bureaucratic politics.
 
 
-How does agrarian elites shape the fate of democracy in a unequal societies? How do economically powerful elites shape who gets what—and at what environmental cost—in democratic settings in the Global South? My dissertation tries to answer these questions analyzing the Brazilian case. In my work, I use large administrative datasets, quasi-experimental designs, and extensive qualitative fieldwork.
+How do agrarian elites shape the fate of democracy in unequal societies? How do economically powerful elites shape who gets what—and at what environmental cost—in the Global South? My dissertation tries to answer these questions analyzing the Brazilian case. In my work, I use large administrative datasets, quasi-experimental designs, and extensive qualitative fieldwork.
 
-I also pursue an interdisciplinary research agenda with a focus on food systems and agriculture. Before graduate school, I worked in Brazil on agriculture, food systems, and human rights. Through that experience, I seek to understand and study public policy aimed at making food systems more sustainable, as well as how commodity supply chains and corporate commitments to sustainability influence land use decisions.
+My current research agenda is also interdisciplinary, with a focus on food systems and agriculture. Building on earlier professional experience, I examine how public policies can make food systems more sustainable and how commodity supply chains and corporate sustainability commitments shape land-use decisions.
 
 
 For a full overview, see my [CV](/assets/cv/cv.pdf). Feel free to reach out by email.
