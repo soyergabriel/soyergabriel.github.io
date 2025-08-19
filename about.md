@@ -6,7 +6,7 @@ permalink: /about/
 
 
 <p align="center">
-  <img src="/assets/img/portrait.jpeg" alt="Portrait of Gabriel Soyer" width="300"/><br>
+  <img src="/assets/img/portrait.png" alt="Portrait of Gabriel Soyer" width="300"/><br>
   <span style="font-size:0.8em; color:gray;">Credits: Aline Soterroni</span>
 </p>
 
