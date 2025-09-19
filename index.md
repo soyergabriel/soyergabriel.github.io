@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Gabriel Soyer – Political Science & International Affairs
+title: 
 description: "PhD Candidate at the University of Georgia researching political economic and environmnental politics in Brazil."
 ---
 
