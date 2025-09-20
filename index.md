@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 
-description: "PhD Candidate at the University of Georgia researching political economic and environmnental politics in Brazil."
+description: "PhD Candidate at the University of Georgia researching political economy of agriculture and environmnental politics"
 ---
 
 
