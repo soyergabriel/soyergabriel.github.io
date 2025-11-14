@@ -7,9 +7,6 @@ permalink: /teaching/
 
 **University of Georgia**
 
-- Instructor (scheduled), *Inter-American Relations: U.S.–Latin America Foreign Policy*,  
-  Department of International Affairs, Spring 2026  
-
 - Instructor, *Introduction to Global Issues (Honors)*,  
   Department of International Affairs, Fall 2025  
 
