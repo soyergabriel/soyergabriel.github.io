@@ -11,8 +11,8 @@ permalink: /about/
 </p>
 
 **Thank you for your visit!**
-I'm a PhD Candidate in Political Science & International Affairs at the University of Georgia (UGA). I also hold a Graduate Certificate in GIScience (Geographic Information Science).
-My research lies at the intersection of political economy, environmental politics and bureaucratic politics.
+I'm a postdoctoral researcher for the “Land Use, Sustainability, and Democratic backsliding” (LUDEMO) project at the Earth and Life Institute, UCLouvain, Belgium.
+I hold a PhD in Political Science & International Affairs at the University of Georgia (UGA, 2025). I also hold a Graduate Certificate in GIScience (Geographic Information Science). My research lies at the intersection of political economy, environmental politics and bureaucratic politics.
 
 
 How do agrarian elites shape the fate of democracy in unequal societies? How do economically powerful elites shape who gets what—and at what environmental cost—in the Global South? My dissertation tries to answer these questions analyzing the Brazilian case. In my work, I use large administrative datasets, quasi-experimental designs, and extensive qualitative fieldwork.
