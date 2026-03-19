@@ -1,12 +1,12 @@
 ---
 layout: home
 title: 
-description: "PhD Candidate at the University of Georgia researching political economy of agriculture and environmnental politics"
+description: "Postdoctoral Researcher at Earth & Life Institute, UCLouvain, Belgium for the project Land Use, Sustainability, and Democratic backsliding"
 ---
 
 
 
-**Hi! Welcome!** I'm Gabriel Soyer, a PhD Candidate in Political Science & International Affairs at the University of Georgia (UGA). 
+**Hi! Welcome!** I'm Gabriel Soyer, a Postdoctoral Researcher at Earth & Life Institute, UCLouvain, Belgium. Before starting this position, I completed my PhD in Political Science & International Affairs at the University of Georgia (UGA). 
 
 
 - [CV](/assets/cv/cv.pdf)  
