@@ -12,7 +12,7 @@ description: "Postdoctoral Researcher at Earth & Life Institute, UCLouvain, Belg
 - [CV](/assets/cv/cv.pdf)  
 - [Google Scholar](https://scholar.google.com/citations?user=YF_cAGQAAAAJ&hl=pt-BR)  
 - [ORCID](https://orcid.org/0000-0002-1700-242X)  
-- Email: soyer@uga.edu
+- Email: gabriel.soyer@uclouvain.be
 
 
 See **[About](/about/)** and **[Publications](/publications/)** for more.
