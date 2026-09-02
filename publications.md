@@ -14,9 +14,9 @@ permalink: /publications/
 
 ### Working papers
 
-- “Agrarian elites and non-programmatic politics: rural credit in Brazil’s municipal elections” (solo-authored). *Under review*
+- “Agrarian elites and non-programmatic politics: rural credit in Brazil’s municipal elections” (solo-authored). *R&R*
 
-- “Bridging bureaucratic politics and food policy: embeddedness across subnational school food pandemic response in Brazil” (with Ricardo Barbosa Jr. and Estevan Coca). *Under review*
+- “Bridging bureaucratic politics and food policy: embeddedness across subnational school food pandemic response in Brazil” (with Ricardo Barbosa Jr. and Estevan Coca). *R&R*
 
 - Local Elections and the Politics of Environmental Enforcement in Brazil (solo-authored). *Under Review*
 
