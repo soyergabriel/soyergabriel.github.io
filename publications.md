@@ -18,19 +18,20 @@ permalink: /publications/
 
 - “Bridging bureaucratic politics and food policy: embeddedness across subnational school food pandemic response in Brazil” (with Ricardo Barbosa Jr. and Estevan Coca). *Under review*
 
+- Local Elections and the Politics of Environmental Enforcement in Brazil (solo-authored). *Under Review*
+
+- Global Markets, Local Forests: Soybean Exports and Deforestation in the Brazilian Legal Amazon (with Rodrigo Moura Karolczak).
+
+- New Perspectives on Traditional Extractivism in Brazil (with Gregory M. Thaler, Carlos Valério Gomes, Evandro Neves, and Bruno Ubiali).
+
+- Greening Local Politics? Evidence from Brazil (with Anthony Calacino and Marcela Alonso Ferreira).
 ---
 
 ### In Progress
 
-- “Campaign donors and the politics of environmental enforcement: local elections in Brazil.” (solo-authored).
-
-- “Does commitment to environment in the importer country matter? Understanding deforestation at municipal level in the Legal Amazon, Brazil.” (with Rodrigo Moura Karolczak).
+- Democratic backsliding and land use change at the global level
 
 - “Nepotism beyond the entry-level: family dynasties in the Brazilian foreign service.” (with Luis Soto Tamayo).
-
-- “Drivers of policy diffusion: bureaucratic entrepreneurs of school food.” (with Marcela Alonso Ferreira).
-
-- “New Perspectives on Traditional Extractivism in Brazil.” (with Gregory M. Thaler, Carlos Valério Gomes, Evandro Neves, and Bruno Ubiali).
 
   ### Peer-reviewed (in Portuguese)
 
