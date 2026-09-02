@@ -21,10 +21,11 @@ permalink: /publications/
 - Local Elections and the Politics of Environmental Enforcement in Brazil (solo-authored). *Under Review*
 
 - Global Markets, Local Forests: Soybean Exports and Deforestation in the Brazilian Legal Amazon (with Rodrigo Moura Karolczak).
-
+  
 - New Perspectives on Traditional Extractivism in Brazil (with Gregory M. Thaler, Carlos Valério Gomes, Evandro Neves, and Bruno Ubiali).
-
+  
 - Greening Local Politics? Evidence from Brazil (with Anthony Calacino and Marcela Alonso Ferreira).
+  
 ---
 
 ### In Progress
